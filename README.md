@@ -4,8 +4,10 @@
 
 1. Clone this project
 2. `cd raspberrypi && chmod u+x *.sh`
+3. `./dist-upgrade.sh`
 
-### Execution order for initial setup...
+
+### Ruby and Rails Installation
 
 1. `./update-pi.sh`
 2. `./ruby-install.sh`

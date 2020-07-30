@@ -1,6 +1,6 @@
 # Raspberry Pi - Utility scripts
 
-### Before steps
+### Initial steps
 
 1. Clone this project
 2. `cd raspberrypi && chmod u+x *.sh`

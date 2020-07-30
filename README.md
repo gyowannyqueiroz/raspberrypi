@@ -10,7 +10,7 @@
 ### Ruby and Rails Installation
 
 1. `./update-pi.sh`
-2. `./ruby-install.sh`
+2. `./ruby-rails-install.sh`
 3. `./install-nodejs.sh`
 
 **...then after creating your first Rails project**
